@@ -1,3 +1,22 @@
+# Wishlist Watchers
+
+## MVP
+
+- [ ] Website that allows you to create Wishlists (1 main and ability to create other specific wishlists).
+- [ ] Items in a wishlist can come from anywhere (Amazon/Target/Walmart/etc., specific URL).
+- [ ] Prioritize items, filter items by name/price/wishlist/owner
+- [ ] You can add friends and see their wishlists.
+- [ ] You can pin items/wishlists that show you info like whose item it is for and the price of the item.
+- [ ] When an item is purchased by someone other than yourself, that item is automatically removed from the wishlist view for everyone EXCEPT the wishlist owner
+
+## Future Development
+
+- [ ] Search for items to add to your wishlist in UI that looks at Amazon/Target/Walmart/etc.
+
+---
+
+## Next.js
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
