@@ -2,7 +2,7 @@
 
 ## MVP
 
-See MVP Feature in Issues.
+See MVP Epic in Issues.
 
 ## Future Development
 
